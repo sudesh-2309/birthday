@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #f3e5f5;
+}
+
+.container {
+  text-align: center;
+  padding: 30px;
+}
+
+header h1 {
+  color: #6a1b9a;
+}
+
+header p {
+  color: #666;
+}
+
+.birthday-list {
+  width: 350px;
+  margin: 40px auto;
+}
+
+.birthday-card {
+  background-color: white;
+  padding: 15px;
+  margin: 15px;
+  border-radius: 12px;
+  box-shadow: 0 3px 8px #ccc;
+}
+
+.birthday-card h2 {
+  color: #8e24aa;
+}
+
+.birthday-card p {
+  color: #666;
+}
+
+footer {
+  margin-top: 40px;
+  color: #777;
+}
+.form {
+  margin: 30px auto;
+}
+
+.form input {
+  padding: 10px;
+  margin: 8px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+.form button {
+  padding: 10px 20px;
+  background-color: #8e24aa;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.form button:hover {
+  background-color: #6a1b9a;
+}
